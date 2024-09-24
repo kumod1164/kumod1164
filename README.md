@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Kumod Kumar Sharma!<br><br>📍 Based in Patna, Bihar<br><br>🚀 Pursuing Full Stack Web Development at Masai School<br><br>🌐 Aspiring developer with a passion for crafting clean and efficient code. Currently diving into the world of full-stack web development at Masai School, embracing challenges and building solutions. Excited to contribute and learn in the vast realm of programming.<br><br>🌱 Always on the lookout for opportunities to collaborate, learn, and grow.<br><br>Connect with me! Let's code and create together. 🚀
+👋 Hi, I'm Kumod Kumar Sharma!<br><br>📍 Based in Patna, Bihar<br><br>🚀Learned Full Stack Web Development at Masai School<br><br>🌐 Aspiring developer with a passion for crafting clean and efficient code. Currently diving into the world of full-stack web development at Masai School, embracing challenges and building solutions. Excited to contribute and learn in the vast realm of programming.<br><br>🌱 Always on the lookout for opportunities to collaborate, learn, and grow.<br><br>Connect with me! Let's code and create together. 🚀
 
 ## Portfolio:
 https://kumod1164.github.io/<br/>
